@@ -1,0 +1,19 @@
+/* src/components/BoxerCard.css */
+.boxer-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    text-align: left;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .boxer-card h2 {
+    margin: 0 0 10px 0;
+  }
+  
+  .boxer-card p {
+    margin: 5px 0;
+  }
+  
